@@ -1,1 +1,1 @@
-# discordClone
+# discord_landing_page
